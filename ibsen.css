@@ -30,8 +30,8 @@
 }
 
 thead {
-    background-color: brown;
-    color:azure;
+    background-color:azure;
+    color:black;
 }
 
 
@@ -48,10 +48,18 @@ tr{
     text-align: center;
     padding: 8px;
     margin: auto;
-    color: aquamarine;
+    color:black;
+}
+
+td{
+    border: solid 1px;
+    text-align: center;
+    padding: 8px;
+    margin: auto;
+    color:brown;
 }
 
 tr:nth-child(even){
-    background-color:blue ;
+    background-color:bisque ;
 }
 
