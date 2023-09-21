@@ -28,3 +28,30 @@
 .MortenKiil{
     color:blueviolet;
 }
+
+thead {
+    background-color: brown;
+    color:azure;
+}
+
+
+
+table,
+tr{
+    border: solid 3px;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+tr{
+    border: solid 1px;
+    text-align: center;
+    padding: 8px;
+    margin: auto;
+    color: aquamarine;
+}
+
+tr:nth-child(even){
+    background-color:blue ;
+}
+
