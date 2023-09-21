@@ -1,0 +1,30 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.direction{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: aliceblue;
+
+}
+
+.direction:hover{
+    color: red;
+    background-color: antiquewhite;
+}
+
+.Mrs.Stockmann{
+    color:blue;
+}
+
+.Dr.Stockmann{
+    color:aquamarine;
+}
+
+.MortenKiil{
+    color:blueviolet;
+}
